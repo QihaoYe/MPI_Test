@@ -1,5 +1,5 @@
 
 .DS_Store
-test001/test001
+*[0-9]
 *.dSYM
 */Compile_All.sh~
